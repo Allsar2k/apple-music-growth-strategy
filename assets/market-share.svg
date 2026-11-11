@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="t d">
+  <title id="t">Global music subscriber share, end of 2025</title>
+  <desc id="d">Horizontal bar chart from MIDiA Research. Spotify 31.4 percent, Tencent Music 13.8 percent, Apple Music 12.6 percent, down from 18.4 percent at the end of 2020, YouTube Music 12.4 percent, up from 7.9 percent at the end of 2020, Amazon Music 8.5 percent.</desc>
+  <rect width="1200" height="620" fill="#16070F"/>
+  <g font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="64" font-size="15" font-weight="700" letter-spacing="3" fill="#FF4D7A">MARKET ANALYSIS</text>
+    <text x="60" y="112" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#FFF1F5">Share of global music subscribers, end of 2025</text>
+    <text x="60" y="194" font-size="21" font-weight="400" fill="#FFF1F5">Spotify</text>
+    <rect x="260" y="168" width="690" height="40" rx="6" fill="#8C6A7A"/>
+    <text x="964" y="196" font-size="22" font-weight="700" fill="#FFF1F5">31.4%</text>
+    <text x="60" y="270" font-size="21" font-weight="400" fill="#FFF1F5">Tencent Music</text>
+    <rect x="260" y="244" width="303" height="40" rx="6" fill="#8C6A7A"/>
+    <text x="577" y="272" font-size="22" font-weight="700" fill="#FFF1F5">13.8%</text>
+    <text x="60" y="346" font-size="21" font-weight="700" fill="#FFF1F5">Apple Music</text>
+    <rect x="260" y="320" width="277" height="40" rx="6" fill="#FF4D7A"/>
+    <text x="551" y="348" font-size="22" font-weight="700" fill="#FFF1F5">12.6%</text>
+    <line x1="664" y1="314" x2="664" y2="366" stroke="#FFF1F5" stroke-width="3" stroke-dasharray="5 4"/><text x="674" y="378" font-size="15" fill="#D9B8C6">2020: 18.4%</text>
+    <text x="60" y="422" font-size="21" font-weight="700" fill="#FFF1F5">YouTube Music</text>
+    <rect x="260" y="396" width="272" height="40" rx="6" fill="#FFA06B"/>
+    <text x="546" y="424" font-size="22" font-weight="700" fill="#FFF1F5">12.4%</text>
+    <line x1="433" y1="390" x2="433" y2="442" stroke="#FFF1F5" stroke-width="3" stroke-dasharray="5 4"/><text x="443" y="454" font-size="15" fill="#D9B8C6">2020: 7.9%</text>
+    <text x="60" y="498" font-size="21" font-weight="400" fill="#FFF1F5">Amazon Music</text>
+    <rect x="260" y="472" width="187" height="40" rx="6" fill="#8C6A7A"/>
+    <text x="461" y="500" font-size="22" font-weight="700" fill="#FFF1F5">8.5%</text>
+    <text x="60" y="580" font-size="15" fill="#D9B8C6">Source: MIDiA Research via Music Business Worldwide (2026). Dashed lines mark each service's share at the end of 2020.</text>
+  </g>
+</svg>

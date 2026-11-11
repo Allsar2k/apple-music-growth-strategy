@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="t d">
+  <title id="t">Apple Music "Second Listen" growth strategy</title>
+  <desc id="d">Deep plum background with concentric pink and orange rings like a sound pulse around equaliser bars. Serif title Second Listen, with the line "A growth strategy to win back the iPhone listener." and growth strategy by Chris Williams.</desc>
+  <defs>
+    <radialGradient id="g" cx="0.78" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF4D7A" stop-opacity="0.45"/><stop offset="1" stop-color="#FF4D7A" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="500" fill="#16070F"/>
+  <rect width="1000" height="500" fill="url(#g)"/>
+  <g fill="none" transform="translate(780 250)">
+    <circle r="60" stroke="#FF4D7A" stroke-width="10"/>
+    <circle r="110" stroke="#FF4D7A" stroke-width="6" opacity="0.8"/>
+    <circle r="160" stroke="#FFA06B" stroke-width="4" opacity="0.7"/>
+    <circle r="210" stroke="#FFA06B" stroke-width="2" opacity="0.5"/>
+    <g fill="#FF4D7A" stroke="none"><rect x="-26" y="-14" width="9" height="28" rx="4.5"/><rect x="-11" y="-26" width="9" height="52" rx="4.5"/><rect x="4" y="-18" width="9" height="36" rx="4.5"/><rect x="19" y="-8" width="9" height="16" rx="4.5"/></g>
+  </g>
+  <text x="70" y="140" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#FF4D7A">APPLE MUSIC · GROWTH STRATEGY</text>
+  <text x="66" y="250" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" fill="#FFF1F5">Second</text>
+  <text x="66" y="334" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" font-style="italic" fill="#FFA06B">Listen</text>
+  <text x="70" y="390" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#D9B8C6">A growth strategy to win back the iPhone listener.</text>
+  <text x="70" y="440" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#D9B8C6">Chris Williams · Product Marketing Concepts</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="t d">
+  <title id="t">Second Listen growth levers</title>
+  <desc id="d">Four growth levers along the funnel. Acquisition: Bring It All, a one-tap library move and a graduate offer. Activation: Hear the Difference, a first listen in Spatial Audio. Retention: Listen Together, monthly Replay and shared playlists across services. Referral: Encore Moments, the Super Bowl Halftime Show and Apple Music Live.</desc>
+  <rect width="1200" height="600" fill="#16070F"/>
+  <g font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="64" font-size="15" font-weight="700" letter-spacing="3" fill="#FF4D7A">GROWTH STRATEGY</text>
+    <text x="60" y="112" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#FFF1F5">Lower the cost of switching. Then give a reason.</text>
+    <g transform="translate(60 160)">
+      <path d="M0 0 H240 L262 30 L240 60 H0 L22 30 Z" fill="#FF4D7A"/>
+      <text x="36" y="37" font-size="14" font-weight="700" letter-spacing="2.5" fill="#16070F">1 · ACQUISITION</text>
+      <rect x="0" y="84" width="250" height="300" rx="18" fill="#24101B" stroke="#3A2130" stroke-width="2"/>
+      <text x="24" y="138" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFF1F5">Bring It All</text>
+      <text x="24" y="176" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFF1F5"></text>
+      <line x1="24" y1="206" x2="226" y2="206" stroke="#3A2130" stroke-width="2"/>
+      <text x="24" y="246" font-size="18" fill="#D9B8C6">One-tap library move</text>
+      <text x="24" y="278" font-size="18" fill="#D9B8C6">Graduate offer</text>
+      <text x="24" y="310" font-size="18" fill="#D9B8C6">Your history comes too</text>
+    </g>
+    <g transform="translate(335 160)">
+      <path d="M0 0 H240 L262 30 L240 60 H0 L22 30 Z" fill="#FFA06B"/>
+      <text x="36" y="37" font-size="14" font-weight="700" letter-spacing="2.5" fill="#16070F">2 · ACTIVATION</text>
+      <rect x="0" y="84" width="250" height="300" rx="18" fill="#24101B" stroke="#3A2130" stroke-width="2"/>
+      <text x="24" y="138" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFF1F5">Hear the</text>
+      <text x="24" y="176" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFF1F5">Difference</text>
+      <line x1="24" y1="206" x2="226" y2="206" stroke="#3A2130" stroke-width="2"/>
+      <text x="24" y="246" font-size="18" fill="#D9B8C6">First listen in Spatial</text>
+      <text x="24" y="278" font-size="18" fill="#D9B8C6">Lossless, in plain words</text>
+      <text x="24" y="310" font-size="18" fill="#D9B8C6"></text>
+    </g>
+    <g transform="translate(610 160)">
+      <path d="M0 0 H240 L262 30 L240 60 H0 L22 30 Z" fill="#FF4D7A"/>
+      <text x="36" y="37" font-size="14" font-weight="700" letter-spacing="2.5" fill="#16070F">3 · RETENTION</text>
+      <rect x="0" y="84" width="250" height="300" rx="18" fill="#24101B" stroke="#3A2130" stroke-width="2"/>
+      <text x="24" y="138" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFF1F5">Listen</text>
+      <text x="24" y="176" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFF1F5">Together</text>
+      <line x1="24" y1="206" x2="226" y2="206" stroke="#3A2130" stroke-width="2"/>
+      <text x="24" y="246" font-size="18" fill="#D9B8C6">Monthly social Replay</text>
+      <text x="24" y="278" font-size="18" fill="#D9B8C6">Playlists across services</text>
+      <text x="24" y="310" font-size="18" fill="#D9B8C6"></text>
+    </g>
+    <g transform="translate(885 160)">
+      <path d="M0 0 H240 L262 30 L240 60 H0 L22 30 Z" fill="#FFA06B"/>
+      <text x="36" y="37" font-size="14" font-weight="700" letter-spacing="2.5" fill="#16070F">4 · REFERRAL</text>
+      <rect x="0" y="84" width="250" height="300" rx="18" fill="#24101B" stroke="#3A2130" stroke-width="2"/>
+      <text x="24" y="138" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFF1F5">Encore</text>
+      <text x="24" y="176" font-family="'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFF1F5">Moments</text>
+      <line x1="24" y1="206" x2="226" y2="206" stroke="#3A2130" stroke-width="2"/>
+      <text x="24" y="246" font-size="18" fill="#D9B8C6">Super Bowl Halftime</text>
+      <text x="24" y="278" font-size="18" fill="#D9B8C6">Apple Music Live</text>
+      <text x="24" y="310" font-size="18" fill="#D9B8C6"></text>
+    </g>
+  </g>
+</svg>
